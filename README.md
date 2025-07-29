@@ -31,6 +31,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center">
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Email: hyoctopusdev@gmail.com  </div> 
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Potofolio: <a href="https://stone-juice-4d2.notion.site/1d273782a316808794a6d668b7244d71?source=copy_link">Notion</a> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Potofolio: <a href="https://stone-juice-4d2.notion.site/17b73782a31680d296e6cf793aef6ca9?source=copy_link">Notion</a> </div> 
     </a>  </div>  <br>     
     </div>
