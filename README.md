@@ -2,7 +2,7 @@
 
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 오타쿠 개발자 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 취업 준비 중인 백엔드 주니어 개발자입니다. <br> 오타쿠들이 마음껏 놀 수 있는 공간을 만들고자 합니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 취업 준비 중인 주니어 개발자입니다. <br> 오타쿠들이 마음껏 놀 수 있는 공간을 만들고자 합니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
